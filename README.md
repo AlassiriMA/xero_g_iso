@@ -8,6 +8,9 @@ cd ~/xero_iso/ && abs XeroG
 ```
 
 ### Note
-> This here, is a side project, as a result, it will only be updated every Major release of GNOME. This uses R43.1 so next release will be once R44.1 lands sometime in March 2023...
+> This here, is a side project, as a result, it will only be updated every Major release of GNOME. 
+> This uses R43.1 so next release will be once R44.1 lands sometime in March 2023...
 -----------------------------------------------------------------
+
+
 ![XeroLinux-Calamares](https://i.imgur.com/9sjGFSN.png)
