@@ -12,4 +12,4 @@ cd ~/xero_iso/ && abs XeroG
 -----------------------------------------------------------------
 
 
-![XeroLinux-Calamares]([https://i.imgur.com/9sjGFSN.png](https://media.discordapp.net/attachments/1038870855599530046/1041364358015488000/image.png)
+![XeroLinux-Calamares]([https://i.imgur.com/9sjGFSN.png](https://media.discordapp.net/attachments/1038870855599530046/1041364358015488000/image.png))
