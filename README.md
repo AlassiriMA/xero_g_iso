@@ -4,7 +4,7 @@ Repo for **XeroLinux-G** ISO. Feel free to go through files and learn how it's a
 
 ```
 cd ~ && git clone https://github.com/xerolinux/xero_g_iso
-cd ~/xero_iso/ && abs XeroG
+cd ~/xero_g_iso/ && abs XeroG
 ```
 ### Note
 > This here, is a side project, as a result, it will only be updated every Major release of GNOME. 
