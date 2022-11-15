@@ -7,7 +7,7 @@ Repo for **XeroLinux-G** ISO. Feel free to go through files and learn how it's a
 > This uses R43.1 so next release will be once R44.1 lands sometime in March 2023...
 -----------------------------------------------------------------
 
-![XeroLinux-Calamares](https://i.imgur.com/RPG5tOF.png)
+![XeroLinux-Calamares](https://i.imgur.com/LhoMdrI.png)
 
 ### Step 1 - Get Repo in to build :
 
