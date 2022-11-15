@@ -269,7 +269,6 @@ gradience
 
 ### Rice/Config Related
 
-layan-gtk-theme-git
 kvantum-theme-layan-git
 tela-purple-icon-theme-git
 
@@ -464,10 +463,9 @@ ffmpegthumbs
 yay-bin
 flatpak
 topgrade
-pamac-gtk
-pamac-cli
 pacseek-bin
-pamac-gnome-integration
+gnome-software
+gnome-software-packagekit-plugin
 
 #######################################################
 ###                    EXTRAS                       ###
