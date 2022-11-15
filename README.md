@@ -1,6 +1,6 @@
 # XeroLinux "G" ISO Repo
 
-Repo for **XeroLinux-G** ISO. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below, and **DO NOT** install ian a VM yet there's an issue with *Mutter* & latest *mesa* drivers, waiting for a fix upstream. ;)
+Repo for **XeroLinux-G** ISO. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below, and **DO NOT** install in a VM yet there's an issue with *Mutter* & latest *mesa* drivers, waiting for a fix upstream. ;)
 
 ### Note
 > This here, is a side project, as a result, it will only be updated every Major release of GNOME. 
