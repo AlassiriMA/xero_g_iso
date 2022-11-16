@@ -209,7 +209,6 @@ bash-completion
 cryptsetup
 brightnessctl
 mkinitcpio-firmware
-power-profiles-daemon
 
 #######################################################
 ###      PACKAGES THAT ARE REQUIRED TO BUILD !      ###
@@ -449,10 +448,6 @@ python-websockets
 firefox
 firefox-ublock-origin
 
-### cursors
-
-breeze
-
 ### Multimedia
 
 ffmpeg
@@ -489,11 +484,6 @@ virtualbox-guest-utils
 ###                 GNOME Desktop                   ###
 #######################################################
 
-
-## Xero Stuff
-
-#arcolinux-gnome-dconf-git
-#arcolinux-system-installation-git
 
 ## GNOME Stuff
 

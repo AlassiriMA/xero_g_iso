@@ -1,10 +1,10 @@
 # XeroLinux "G" ISO Repo
 
-Repo for **XeroLinux-G** ISO. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below, and **DO NOT** install in a VM yet there's currently an issue with *Mutter* & latest *mesa* drivers, waiting for a fix upstream. ;)
+Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below, and **DO NOT** install in a VM yet there's currently an issue with *Mutter* & latest *mesa* drivers, waiting for a fix upstream... Someday... ;)
 
 ### Note
-> This here, is a side project, as a result, it will only be updated every Major release of GNOME. 
-> This uses R43.1 so next release will be once R44.1 lands sometime in March 2023...
+> This here, is a side project, it's always in progress to keep my skills sharp when it comes to GNOME...
+> There will **Never** be an ISO, so please do not ask for one. It will always remain that way.
 -----------------------------------------------------------------
 
 ![XeroLinux-Calamares](https://i.imgur.com/LhoMdrI.png)
