@@ -1,5 +1,5 @@
 #!/bin/sh
 dconf load /org/gnome/ < ~/.config/xero-dconf.ini
-rm -rf ~/.config/xero-dconf.ini &
+dconf load /com/github/stunkymonkey/nautilus-open-any-terminal/ < ~/.config/term.ini &
 
-notify-send "GNOME settings applied! 🔥"
+notify-send "Xero-G settings applied! 🔥"
