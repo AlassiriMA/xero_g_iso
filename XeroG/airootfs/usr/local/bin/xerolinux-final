@@ -42,11 +42,10 @@ echo "Permission of root"
 echo "#################################"
 chmod -v 750 /root
 
-#echo "Applying Flatpak GTK Overrides"
-#echo "#################################"
-#sudo flatpak override --filesystem=$HOME/.themes
-#sudo flatpak override --filesystem=xdg-config/gtk-3.0:ro
-#sudo flatpak override --filesystem=xdg-config/gtk-4.0:ro
+echo "Applying Flatpak GTK Overrides"
+echo "#################################"
+sudo flatpak override --filesystem=xdg-config/gtk-3.0:ro
+sudo flatpak override --filesystem=xdg-config/gtk-4.0:ro
 
 echo "Remove no longer needed packages"
 echo "#################################"
