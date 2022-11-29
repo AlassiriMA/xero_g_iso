@@ -9,7 +9,7 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 > There will **Never** be an ISO, so please do not ask for one. It will always remain that way.
 -----------------------------------------------------------------
 
-![XeroLinux-Calamares](https://i.imgur.com/tJ64aOY.png)
+![XeroLinux-Calamares](https://i.imgur.com/Ly3EGA0.png)
 
 ### Step 1 - Get Repo in to build :
 
