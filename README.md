@@ -5,7 +5,7 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 ### **DO NOT** install in a VM yet there's currently an issue with *Mutter* & latest *mesa* drivers, waiting for a fix upstream... Someday... ;)
 
 ### Note
-> This here, is a side project, it's always in progress to keep my skills sharp when it comes to GNOME...
+> This here, is a side project, it will keep changing, keeping my skills sharp GNOME wise...
 > There will **Never** be an ISO, so please do not ask for one. It will always remain that way.
 -----------------------------------------------------------------
 
