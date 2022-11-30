@@ -2,7 +2,7 @@
 
 Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below.
 
-### **DO NOT** install in a VM yet there's currently an issue with *Mutter* & latest *mesa* drivers, waiting for a fix upstream... Someday... ;)
+### Minimum Requirement of 8GB RAM is a MUST.. Won't be able to install on lower. Don't ask why please... ;)
 
 ### Note
 > This here, is a side project, it will keep changing, keeping my skills sharp GNOME wise...
