@@ -3,7 +3,7 @@
 Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below.
 
 <p align="center">
-    <img width="50" src="https://i.imgur.com/QWqMIsr.png" alt="logo">
+    <img width="150" src="https://i.imgur.com/QWqMIsr.png" alt="logo">
 </p>
 
 <h1 align="center">You must be on an *Arch* based Distro to build ISO.</h1>
