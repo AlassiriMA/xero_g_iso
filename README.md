@@ -2,14 +2,14 @@
 
 Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below.
 
-### Minimum Requirement of 8GB RAM is a MUST.. Won't be able to install on lower. Don't ask why please... ;)
+<h1 align="center">You must be on an *Arch* based Distro in order to build this ISO.</h1>
 
 ### Note
 > This here, is a side project, it will keep changing, keeping my skills sharp GNOME wise...
 > There will **Never** be an ISO, so please do not ask for one. It will always remain that way.
 -----------------------------------------------------------------
 
-![XeroLinux-Calamares](https://i.imgur.com/ecTOPEm.png)
+![XeroG](https://i.imgur.com/ecTOPEm.png)
 
 ### Step 1 - Get Repo in to build :
 
