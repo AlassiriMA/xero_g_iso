@@ -2,7 +2,7 @@
 
 Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below.
 
-<h1 align="center">You must be on an *Arch* based Distro to build ISO.</h1>
+<h1 align="center">You must be on an ![Arch](https://i.imgur.com/StNpW5t.png) based Distro to build ISO.</h1>
 
 ### Note
 > This here, is a side project, it will keep changing, keeping my skills sharp GNOME wise...
