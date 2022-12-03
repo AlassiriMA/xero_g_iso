@@ -10,7 +10,8 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 
 ### Note
 > This here, is a side project, it will keep changing, keeping my skills sharp GNOME wise...
-> There will **Never** be an ISO, so please do not ask for one. It will always remain that way.
+> There will **Never** be a public ISO. In case you can't for whatever reason, one will be made availeble,
+> Only on Patreon via the $25 Tier. Feel free jo join us [There](https://patreon.com/XeroLinux)
 -----------------------------------------------------------------
 
 ![XeroG](https://i.imgur.com/ecTOPEm.png)
