@@ -128,7 +128,6 @@ grub
 os-prober
 grub-tools
 update-grub
-grub-customizer
 
 ### archiso-extra
 
@@ -279,10 +278,8 @@ gtk-engine-murrine
 
 ### Rice/Config Related
 
-dracula-alacritty-git
-dracula-gtk-theme-git
 tela-purple-icon-theme-git
-ant-dracula-kvantum-theme-git
+kvantum-theme-libadwaita-git
 
 ### System Utilities
 
