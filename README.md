@@ -8,6 +8,13 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 
 <h1 align="center">You must be on an *Arch* based Distro to build ISO.</h1>
 
+> The following are not supported Distros to build on since they
+> don't use Arch repos which will result in errors building the ISO.
+> - Manjaro (Own Repos)
+> - CachyOS (Arch v3)
+> - KaOS (Limited Repos)
+> - Artix (No Systemd)
+-----------------------------------------------------------------
 ### Note
 > This here, is a side project, it will keep changing, keeping my skills sharp GNOME wise...
 > There will **Never** be a public ISO. In case you can't for whatever reason, one will be made available,
