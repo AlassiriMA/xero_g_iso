@@ -6,7 +6,7 @@ I'm charging for the **time, work and efforts** I put in creating those amazing 
 
 _`Why though?`_ My country, **(Lebanon)** is currently going through a bad economic & political crisis. In light of the current situation, maintaining the project, or at least any extra ones, pro-bono, is getting harder than it should be. Your contributions will go a long way into sustaining it for a long time to come.
 
-As a person who loves `Linux`, I share those things with you, So you can take _inspiration_ and try to create your own, So that you can **learn**. Not because I want an audience to buy my stuff. I don't like to do that, but due to my current situation, without a job to feed myself, or pay the outstanding monthly bills, I have no choice.
+As a person who loves `Linux`, I share those things with you, So you can take _inspiration_ and try to create your own, So that you can **learn**. Not because I want an audience to buy my stuff. I don't like to do that, but due to current situation, without a job to feed myself, or pay the outstanding monthly bills, I have no choice.
 
 It's not like I do not offer a free way to grab this and any future projects I work on. I am giving you 2 choices, either support me to get a pre-built ISO by joining the $25 **Patreon** Tier, or get it for **FREE** by following a simple guide I have painstakingly put together. Simple as that.
 
@@ -22,7 +22,7 @@ I understand, there are many other and in most cases better and **Free** choices
 
 First, let me be clear, I am not as well known as many other projects out there. As a result I am not getting as many downloads as I would hope. With that in mind...
 
-Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job) which is currently not possible due to economic crisis. And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch_), You should be getting **`15x8x7 = 840 USD`**. I put a **25USD tag** on this Edition and others I will potentially be working on. Even if **20** people purchase it, a dream as of now, I still get **500 USD** (**275 USD** actually after Taxes & other charges). Dude I'm not getting half of the actual work I've done.
+Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job) which is currently not possible due to economic crisis. And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch, not to mention all the time it takes to do the research with Linux moving so damn fast_), You should be getting **`15x8x7 = 840 USD`**. I put a **25USD tag** on this Edition and others I will potentially be working on. Even if **20** people purchase it, a dream as of now, I still get **500 USD** (**275 USD** actually after Taxes & other charges). Dude I'm not getting half of the actual work I've done.
 
 **FOSS** doesn't mean `FREE OF COST`. It means **`Freedom`** to choose. So you're free to choose either my stuff or other stuff.
 
