@@ -20,7 +20,7 @@ I understand, there are many other and in most cases better and **Free** choices
 
 **- Consider this...**
 
-Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job). And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch_), You should be getting **`15x8x7 = 840 USD`**. I put a **5USD tag** on each WM with a **`total 100 purchases`**. Even though if **100** people purchase it, I still get **500 USD** (**414 USD** actually after charges). Dude I'm not getting half of the actual work I've done.
+Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job). And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch_), You should be getting **`15x8x7 = 840 USD`**. I put a **5USD tag** on each Edition with a **`total 100 purchases`**. Even though if **100** people purchase it, I still get **500 USD** (**414 USD** actually after charges). Dude I'm not getting half of the actual work I've done.
 
 **FOSS** doesn't mean `FREE OF COST`. It means **`Freedom`** to choose. So you're free to choose either my stuff or other stuff.
 
