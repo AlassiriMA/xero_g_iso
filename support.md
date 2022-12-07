@@ -18,7 +18,7 @@ Let me tell you why... I'm a `KDE Plasma` user, I have been using it for almost 
 
 I understand, there are many other and in most cases better and **Free** choices out there. But you came here for a reason. You like my work. Also consider that I am a one man show, not a _Company_ with a huge team and income or contributions from the likes of **Microsoft** / **Redhat** or others. I need to sustain myself and my projects...
 
-**- Scenario**
+**- Consider this...**
 
 Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job). And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch_), You should be getting **`15x8x7 = 840 USD`**. I put a **5USD tag** on each WM with a **`total 100 purchases`**. Even though if **100** people purchase it, I still get **500 USD** (**414 USD** actually after charges). Dude I'm not getting half of the actual work I've done.
 
