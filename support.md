@@ -22,7 +22,7 @@ I understand, there are many other and in most cases better and **Free** choices
 
 First, let me be clear, I am not as well known as many other projects out there. As a result I am not getting as many downloads as I would hope. With that in mind...
 
-Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job) which is currently not possible due to economic crisis. And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch, not to mention all the time it takes to do the research with Linux moving so damn fast_), You should be getting **`15x8x7 = 840 USD`**. I put a **25USD tag** on this Edition and others I will potentially be working on. Even if **20** people purchase it, a dream as of now, I still get **500 USD** (**275 USD** actually after Taxes & other charges). Dude I'm not getting half of the actual work I've done.
+Assume working for **15USD an hour** (lowest) for **8 hours** (regular 9to5 job) which is currently not possible due to economic crisis. And if it takes **`7 days`** to build a Distro with a DE/WM (_trust me it takes that much time when you do everything from scratch, not to mention all the time it takes to do the research with Linux moving so damn fast_), You should be getting **`15x8x7 = 840 USD`**. I put a **25USD tag** on this Edition and others I will potentially be working on. Even if **20** people purchase it, a dream due to small size of project, I still get **500 USD** (**275 USD** actually after Taxes & other charges). Dude I'm not getting half of the actual work I've done.
 
 **FOSS** doesn't mean `FREE OF COST`. It means **`Freedom`** to choose. So you're free to choose either my stuff or other stuff.
 
