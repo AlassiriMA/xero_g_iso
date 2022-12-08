@@ -4,6 +4,18 @@ A lot of people complain about why I'm charging for stuff that are **FOSS**. Sim
 
 I'm charging for the **time, work and efforts** I put in creating those amazing stuff **`for you`**.
 
+### EXECUTIVE SUMMARY:
+
+```
+There are three ways to support my efforts:
+
+If you just want the ISO, join my Patreon, details below; OR help spread the word about XeroLinux by talking about it; OR help test, send detailed feedback, troubleshoot, or otherwise help contribute towards my project and vision.
+
+Thank you so much for reading, understanding, and for the support.
+```
+
+### The reasons...
+
 _`Why though?`_ My country, **(Lebanon)** is currently going through a bad economic & political crisis. In light of the current situation, maintaining the project, or at least any extra ones, pro-bono, is getting harder than it should be. Your contributions will go a long way into sustaining it for a long time to come.
 
 As a person who loves `Linux`, I share those things with you, So you can take _inspiration_ and try to create your own, So that you can **learn**. Not because I want an audience to buy my stuff. I don't like to do that, but due to current situation, without a job to feed myself, or pay the outstanding monthly bills, I have no choice.
