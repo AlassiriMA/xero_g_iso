@@ -11,7 +11,7 @@ I'm charging for the **time, work and efforts** I put in creating those amazing 
 > Thank you so much for reading, understanding, and for the support.
 
 
-### The reasons...
+### Reasoning behind all this...
 
 _`Why though?`_ My country, **(Lebanon)** is currently going through a bad economic & political crisis. In light of the current situation, maintaining the project, or at least any extra ones, pro-bono, is getting harder than it should be. Your contributions will go a long way into sustaining it for a long time to come.
 
