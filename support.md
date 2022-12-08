@@ -6,13 +6,12 @@ I'm charging for the **time, work and efforts** I put in creating those amazing 
 
 ### EXECUTIVE SUMMARY:
 
-```
-There are three ways to support my efforts:
+> There are three ways to support my efforts:
 
-If you just want the ISO, join my Patreon, details below; OR help spread the word about XeroLinux by talking about it; OR help test, send detailed feedback, troubleshoot, or otherwise help contribute towards my project and vision.
+> If you just want the ISO, join my Patreon, details below; OR help spread the word about XeroLinux by talking about it; OR help test, send detailed feedback, troubleshoot, or otherwise help contribute towards my project and vision.
 
-Thank you so much for reading, understanding, and for the support.
-```
+> Thank you so much for reading, understanding, and for the support.
+
 
 ### The reasons...
 
