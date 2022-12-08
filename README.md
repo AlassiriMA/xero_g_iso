@@ -21,7 +21,11 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 > only on Patreon, via our $25 Tier. Feel free jo join us [There](https://patreon.com/XeroLinux) <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_g_iso/blob/main/support.md)</sup>
 -----------------------------------------------------------------
 
-![XeroG](https://i.imgur.com/ecTOPEm.png)
+<p align="center">
+
+    [<img src="https://img.youtube.com/vi/7MkQrU_C0tc>/maxresdefault.jpg" width="50%">](https://youtu.be/7MkQrU_C0tc)
+
+</p>
 
 ### Step 1 - Get Repo in to build :
 
