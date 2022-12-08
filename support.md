@@ -4,10 +4,9 @@ A lot of people complain about why I'm charging for stuff that are **FOSS**. Sim
 
 I'm charging for the **time, work and efforts** I put in creating those amazing stuff **`for you`**.
 
-### EXECUTIVE SUMMARY:
+#### EXECUTIVE SUMMARY:
 
-> There are three ways to support my efforts:
-
+> There are three ways to support my efforts:<br />
 > If you just want the ISO, join my Patreon, details below; OR help spread the word about XeroLinux by talking about it; OR help test, send detailed feedback, troubleshoot, or otherwise help contribute towards my project and vision.
 
 > Thank you so much for reading, understanding, and for the support.
