@@ -23,7 +23,7 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 
 <p align="center">
 
-   <a href="https://youtu.be/7MkQrU_C0tc" title="Video"><img src="https://img.youtube.com/vi/7MkQrU_C0tc/maxresdefault.jpg" alt="Video" /></a>
+   <a href="https://youtu.be/7MkQrU_C0tc" title="Video Guide"><img src="https://img.youtube.com/vi/7MkQrU_C0tc/maxresdefault.jpg" alt="Watch Video Guide" /></a>
 
 </p>
 
