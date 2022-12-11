@@ -185,7 +185,7 @@ scanner-support
 ### XeroLinux Build
 
 abs
-xero-g-tool
+xero-g-hello
 xero-g-config
 xero-calamares
 xero-fix-scripts
@@ -278,7 +278,7 @@ gtk-engine-murrine
 
 ### Rice/Config Related
 
-tela-purple-icon-theme-git
+tela-blue-icon-theme-git
 kvantum-theme-libadwaita-git
 
 ### System Utilities
