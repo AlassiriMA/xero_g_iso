@@ -1,6 +1,6 @@
 # XeroLinux "G" ISO Repo
 
-Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below.
+Repo for the **Xero-G** Project. Feel free to go through files and learn how it's all done. To build ISO need to use **ABS** Script via guide below. [Click Here](https://forum.xerolinux.xyz/thread-201.html) for full release info ;)
 
 <p align="center">
     <img width="300" src="https://i.imgur.com/QWqMIsr.png" alt="logo">
