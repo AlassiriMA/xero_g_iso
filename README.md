@@ -17,7 +17,7 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 -----------------------------------------------------------------
 ### Note
 > This here, is an ongoing project,.. There will be no public ISO. Building it yourselves, is currently the *only* way to get it for *Free*. In case you can't build it for whatever reason, an ISO will be made available, as well as many other upcoming bonuses,
-> on **Patreon**, via our *$25* [**Platinum Tier**](https://www.patreon.com/XeroLinux/membership) (monthly). Or if you find $25 too much or don't want to support me on a monthly basis, you can donate any amount to my [**FundRaizr**](https://fnd.us/523mC5) (Once) <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_g_iso/blob/main/support.md)</sup>
+> on **Patreon**, via our *$25* [**Platinum Tier**](https://www.patreon.com/XeroLinux/membership) (monthly). Or if you find that amount to be too much or don't want to support the project on a monthly basis, you can donate any amount to my [**FundRaizr**](https://fnd.us/523mC5) (Once) <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_g_iso/blob/main/support.md)</sup>
 -----------------------------------------------------------------
 
 <h1 align="center">.:: Video Guide ::.</h1>
