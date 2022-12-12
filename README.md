@@ -16,7 +16,7 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 > - Artix (No Systemd)
 -----------------------------------------------------------------
 ### Note
-> This here, is an ongoing project,.. There will be no public ISO. Building it yourselves, is currently the *only* way to get it for *Free*. In case you can't build it for whatever reason, one will be made available, with other bonuses,
+> This here, is an ongoing project,.. There will be no public ISO. Building it yourselves, is currently the *only* way to get it for *Free*. In case you can't build it for whatever reason, an ISO will be made available, with other bonuses,
 > on **Patreon**, via our *$25* [**Platinum Tier**](https://www.patreon.com/XeroLinux/membership) (monthly). Or to anyone who donates on my [**FundRaizr**](https://fnd.us/523mC5) (One Shot) <sup>[**`Why Paid ?`**](https://github.com/xerolinux/xero_g_iso/blob/main/support.md)</sup>
 -----------------------------------------------------------------
 
