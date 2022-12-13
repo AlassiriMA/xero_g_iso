@@ -19,7 +19,7 @@ As a person who loves `Linux`, I share those things with you, So you can take _i
 
 It's not like I do not offer a free way to grab this and any future projects I work on. I am giving you 2 choices, either support me to get a pre-built ISO by joining the $25 **Patreon** Tier, or get it for **FREE** by following a simple guide I have painstakingly put together. Simple as that.
 
-And all the money I get from this, Will eventually be invested in a **Free and Open Source Project, [XeroLinux](https://xerolinux.xyz/)**. Which I've created and maintain all alone.
+And all the money I get from this, Will eventually be invested in a **Free and Open Source Project, [XeroLinux](https://xerolinux.xyz/)**. Which I've created and maintain by myself with code contributions by my good friends [**@keyaedisa](https://keyaedisa.github.io/) for the **ABS** ISO build tool & [**@vnepogodin**](https://github.com/vnepogodin) for **Xero Hello** app.
 
 ### Also, Why should I not charge?
 
