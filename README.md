@@ -67,6 +67,9 @@ Now that we have build environment on our system, it's time to build it.
 **Build ISO :**
 ```
 cd ~/xero_g_iso/ && abs XeroG
+or
+cd ~/xero_g_iso/ && abs -xg
+```
 ```
 
 Follow the prompts and you good to go...
