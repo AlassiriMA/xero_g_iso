@@ -186,7 +186,7 @@ scanner-support
 ### XeroLinux Build
 
 abs
-xero-g-hello
+xerowelcome
 xero-g-config
 xero-calamares
 xero-fix-scripts
@@ -562,10 +562,12 @@ extension-manager
 gnome-shell-extensions
 gnome-shell-extension-appindicator
 
-## Other GTK Stuff
+## Other Gnome Apps
 
+eog
 sushi
 gedit
+totem
 geary
 cheese
 baobab
