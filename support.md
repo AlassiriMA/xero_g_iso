@@ -17,9 +17,9 @@ _`Why though?`_ My country, **(Lebanon)** is currently going through a bad econo
 
 As a person who loves `Linux`, I share those things with you, So you can take _inspiration_ and try to create your own, So that you can **learn**. Not because I want an audience to buy my stuff. I don't like to do that, but due to current situation, without a job to feed myself, or pay the outstanding monthly bills, I have no choice.
 
-It's not like I do not offer a free way to grab this and any future projects I work on. I am giving you 2 choices, either support me to get a pre-built ISO by joining the $25 **Patreon** Tier, or get it for **FREE** by following a simple guide I have painstakingly put together. Simple as that.
+It's not like I do not offer a free way to grab this and any future projects I work on. Either support me to get a pre-built ISO by joining the $25 [**Patreon**](https://www.patreon.com/XeroLinux/membership) Tier, or, if you feel that this is too steep of a price to pay for an ISO, or cannot afford it, you can just opt to donate _Any_ amount to my [**Fundraiser**](https://fnd.us/523mC5), just make sure you leave a message letting me know you are interested in the ISO. Or get it for **FREE** by following a simple guide I have painstakingly put together. Simple as that.
 
-And all the money I get from this, Will eventually be invested in a **Free and Open Source Project, [XeroLinux](https://xerolinux.xyz/)**. Which I've created and maintain by myself with code contributions by my good friends [**@keyaedisa**](https://keyaedisa.github.io/) for the **ABS** ISO build tool & [**@vnepogodin**](https://github.com/vnepogodin) for **Xero Hello** app.
+All the funds I get from this, Will eventually be invested towards making **[XeroLinux](https://xerolinux.xyz/)** support a wider rage of hardware. I maintain this project all by myself with code contributions by my good friends [**@keyaedisa**](https://keyaedisa.github.io/) for the **ABS** ISO build tool & [**@vnepogodin**](https://github.com/vnepogodin) for **Xero Hello** app.
 
 ### Also, Why should I not charge?
 
