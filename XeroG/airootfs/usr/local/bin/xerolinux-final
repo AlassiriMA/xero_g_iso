@@ -55,7 +55,7 @@ sudo flatpak override --filesystem=xdg-config/gtk-4.0:ro
 
 echo "Remove no longer needed packages"
 echo "#################################"
-sudo pacman -Rcns --noconfirm xero-calamares calamares-g-config mkinitcpio-archiso ckbcomp kpmcore kcoreaddons kiconthemes kconfig
+sudo pacman -Rdd --noconfirm xero-calamares calamares-g-config ckbcomp kpmcore kcoreaddons kiconthemes kconfig mkinitcpio-archiso
 
 echo "#################################"
 echo "End xerolinux-final"
