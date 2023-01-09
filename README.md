@@ -10,6 +10,7 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 
 > The following are not supported Distros to build on since they
 > don't use Arch repos which will result in errors building the ISO.
+> - Garuda (Build Fails)
 > - Manjaro (Own Repos)
 > - CachyOS (Arch v3)
 > - KaOS (Limited Repos)
