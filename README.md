@@ -31,7 +31,9 @@ Repo for the **Xero-G** Project. Feel free to go through files and learn how it'
 
 ### Step 1 - Get Repo in to build :
 
-Before we get started we will need to get the **ABS** repo in, that's where the new build tool is located. To do so need to edit the "pacman.conf" :
+Before we get started we will need to get the **ABS** repo in, that's where the new build tool is located. To do so need to edit the "pacman.conf". Use either methods to do so :
+
+**- Method 1 :**
 
 ```
 sudo nano /etc/pacman.conf
@@ -48,6 +50,15 @@ Now install the tool via,
 ```
 sudo pacman -S abs
 ```
+
+**- Method 2 :**
+
+Type the following command using `sudo` in terminal done !
+
+```
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/keyaedisa/valen_repo/trunk/install/addRepo2PacmanConf.sh)""
+```
+
 ### Step 2 - Clone Build Repo :
 
 Once you got Repos in, time to grab the build environment that you will be building from. Just note that you will need Git installed in order to do that.
