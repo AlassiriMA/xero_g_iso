@@ -46,10 +46,6 @@ Now we need to add the repo at the end of the file, so add this,
 SigLevel = Never
 Server = https://keyaedisa.github.io/$repo/$arch
 ```
-Now install the tool via,
-```
-sudo pacman -S abs
-```
 
 **- Method 2 :**
 
@@ -57,6 +53,11 @@ Type the following command using `sudo` in terminal done !
 
 ```
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/keyaedisa/valen_repo/trunk/install/addRepo2PacmanConf.sh)""
+```
+
+Now install the tool via,
+```
+sudo pacman -S abs
 ```
 
 ### Step 2 - Clone Build Repo :
