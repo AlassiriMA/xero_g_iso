@@ -261,6 +261,7 @@ alacritty-themes
 
 ### Fonts
 
+asian-fonts
 ttf-fira-code
 otf-libertinus
 tex-gyre-fonts
@@ -563,15 +564,17 @@ extension-manager
 gnome-shell-extensions
 gnome-x11-gesture-daemon
 gnome-gesture-improvements
+gnome-shell-extension-caffeine
 gnome-shell-extension-arc-menu
 gnome-shell-extension-gsconnect
 gnome-shell-extension-arch-update
 gnome-shell-extension-appindicator
 gnome-shell-extension-dash-to-dock
 gnome-shell-extension-blur-my-shell
-#gnome-shell-extension-pop-shell-bin
+gnome-shell-extension-pop-shell-git
 gnome-shell-extension-coverflow-alt-tab
 gnome-shell-extension-clipboard-indicator
+gnome-shell-extension-rounded-window-corners
 
 ## Other Gnome Apps
 
